@@ -1,7 +1,7 @@
-# Dia landing with HTML, SCSS and JS.
+# Museum landing with HTML, SCSS and JS.
 
 - [DEMO LINK](https://kostyaniekrasov.github.io/museum-landing/)
-- [DESIGN LINK](<https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit))
+- [DESIGN LINK](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit))
 
 This project requires Node.js version 14. Please follow the steps below to set up the project locally.
 
