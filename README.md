@@ -22,12 +22,12 @@ The page features various exhibitions, upcoming events, gallery images, and a su
 
 **1. Clone the repository:**
 ```
-git clone https://github.com/kostyaniekrasov/museum_v2-landing.git
+git clone https://github.com/kostyaniekrasov/museum-landing.git
 ```
 
 **2. Navigate to the project directory:**
 ```
-cd museum_v2-landing
+cd museum-landing
 ```
 **3. Install the dependencies:**
 ```
